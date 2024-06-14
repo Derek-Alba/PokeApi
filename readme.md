@@ -1,9 +1,10 @@
 # POKEAPI
 
-Creación de PokeAPI para practicar del Fetch
+Creación de PokeAPI para practicar el Fetch
+Utilizando HTML, CSS, BOOTSTRAP Y JAVASCRIPT
 
 ![alt text](presentacion.png)
 
- Buscar por especie
+  Buscar Pokemones por especie
 
 ![alt text](presentacion-2.png)
